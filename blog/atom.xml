@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://calvinjhng.github.io/blog</id>
+    <title>Handbook 101 Blog</title>
+    <updated>2021-01-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://calvinjhng.github.io/blog"/>
+    <subtitle>Handbook 101 Blog</subtitle>
+    <icon>https://calvinjhng.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://calvinjhng.github.io/handbook101/blog/welcome"/>
+        <updated>2021-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello. I am still in the midst of building this website. Stay tuned or feel free to contact me for collaboration or suggestions!]]></summary>
+    </entry>
+</feed>
